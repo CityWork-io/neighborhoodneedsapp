@@ -1,0 +1,18 @@
+/* ArcGIS CSS imports - must be at the top */
+@import "https://js.arcgis.com/calcite-components/3.2.1/calcite.css";
+@import "https://js.arcgis.com/4.33/@arcgis/core/assets/esri/themes/light/main.css";
+@import "https://js.arcgis.com/4.33/map-components/main.css";
+
+/* Your existing styles */
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* You might also want to add this for full height */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
