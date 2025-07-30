@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/neighborhoodneedsapp/static/css/main.23b2000b.css",
-    "main.js": "/neighborhoodneedsapp/static/js/main.37fc8ec0.js",
+    "main.js": "/neighborhoodneedsapp/static/js/main.464f7945.js",
     "static/js/2413.98cb829a.chunk.js": "/neighborhoodneedsapp/static/js/2413.98cb829a.chunk.js",
     "static/js/2586.a631f05d.chunk.js": "/neighborhoodneedsapp/static/js/2586.a631f05d.chunk.js",
     "static/js/5665.339089ba.chunk.js": "/neighborhoodneedsapp/static/js/5665.339089ba.chunk.js",
@@ -458,7 +458,7 @@
     "static/js/239.75f12c3c.chunk.js": "/neighborhoodneedsapp/static/js/239.75f12c3c.chunk.js",
     "index.html": "/neighborhoodneedsapp/index.html",
     "main.23b2000b.css.map": "/neighborhoodneedsapp/static/css/main.23b2000b.css.map",
-    "main.37fc8ec0.js.map": "/neighborhoodneedsapp/static/js/main.37fc8ec0.js.map",
+    "main.464f7945.js.map": "/neighborhoodneedsapp/static/js/main.464f7945.js.map",
     "2413.98cb829a.chunk.js.map": "/neighborhoodneedsapp/static/js/2413.98cb829a.chunk.js.map",
     "2586.a631f05d.chunk.js.map": "/neighborhoodneedsapp/static/js/2586.a631f05d.chunk.js.map",
     "5665.339089ba.chunk.js.map": "/neighborhoodneedsapp/static/js/5665.339089ba.chunk.js.map",
@@ -889,6 +889,6 @@
   },
   "entrypoints": [
     "static/css/main.23b2000b.css",
-    "static/js/main.37fc8ec0.js"
+    "static/js/main.464f7945.js"
   ]
 }
