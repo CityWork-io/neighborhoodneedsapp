@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneighborhood_needs_app=self.webpackChunkneighborhood_needs_app||[]).push([[7932],{37932:(e,h,p)=>{p.r(h),p.d(h,{build:()=>s.b});p(47233),p(79138),p(86955),p(72790),p(70571),p(2687);var s=p(62854)}}]);

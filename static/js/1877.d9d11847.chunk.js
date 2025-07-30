@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneighborhood_needs_app=self.webpackChunkneighborhood_needs_app||[]).push([[1877],{51877:(e,d,h)=>{h.r(d),h.d(d,{build:()=>n.b,defaultAngleCutoff:()=>n.d});h(15941),h(19555),h(72745),h(20664),h(9392),h(43047),h(55855),h(44230),h(13927),h(78315),h(67675),h(73398),h(95756),h(84115),h(5517),h(58350),h(23148),h(21390),h(86955),h(2687);var n=h(71467)}}]);
